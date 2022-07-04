@@ -1,0 +1,13 @@
+         URL
+          |
+    +-----+-----+
+    |           |
+Is artist    Is post
+    |		|
+Get JSON    Get JSON
+    |
+  Parse
+    |
+Get posts
+    |
+GOTO posts
